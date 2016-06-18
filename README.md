@@ -7,14 +7,14 @@ I personally use this theme when working on my own projects.
 ### Swift Example
 
 <p align="center">
-	<img src="http://i.imgur.com/IkHRA8r.png" width="50%">
+	<img src="http://i.imgur.com/IkHRA8r.png" width="75%">
 </p>
 
 
 ### Objective-C Example
 
 <p align="center">
-	<img src="http://i.imgur.com/SZoRjf1.png" width="50%">
+	<img src="http://i.imgur.com/SZoRjf1.png" width="75%">
 </p>
 
 
