@@ -20,20 +20,24 @@ I personally use this theme when working on my own projects.
 
 ### Installation instructions
 
-1. Clone to some place like your Downloads folder
+1) Clone to some place like your Downloads folder
 
 ```bash
 cd ~/Downloads && git clone https://github.com/spritekitbook/jeremydark.git
 ```
 
-2. Copy the theme to your Xcode FontAndColorThemes directory
+2) Copy the theme to your Xcode FontAndColorThemes directory
 
 ```bash
 cp ~/Downloads/jeremydark.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
-3. Re-launch Xcode
+3) Re-launch Xcode
 
-4. Select the Jeremy Dark color theme.
+4) Select the Jeremy Dark color theme.
 
 Xcode > Preferences... > Fonts & Colors > Jeremy Dark
+
+5) Optional. Install an I-Beam cursor that looks better on dark backgrounds in Xcode.
+
+https://github.com/egold/better-xcode-ibeam-cursor
