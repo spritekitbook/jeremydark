@@ -8,6 +8,10 @@ I personally use this theme when working on my own projects.
 
 [jeremydark Swift 2.0](http://i.imgur.com/IkHRA8r.png)
 
+<p align="center">
+	<img src="http://i.imgur.com/IkHRA8r.png)">
+</p>
+
 
 ### Objective-C Example
 
