@@ -6,12 +6,12 @@ I personally use this theme when working on my own projects.
 
 ### Swift Example
 
-(http://imgur.com/IkHRA8r)
+[jeremydark Swift 2.0](http://i.imgur.com/IkHRA8r.png)
 
 
 ### Objective-C Example
 
-(http://imgur.com/IkHRA8r)
+[jeremydark Objective-C](http://i.imgur.com/SZoRjf1.png)
 
 ### Installation instructions
 
